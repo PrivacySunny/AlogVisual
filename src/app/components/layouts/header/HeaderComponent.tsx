@@ -58,7 +58,7 @@ const HeaderComponent = () => {
 
             {/* old logo */}
             
-              <svg
+            <svg
               className='group h-16 w-16 transform transition-transform duration-300 ease-in-out hover:scale-110'
               width='35'
               height='35'
