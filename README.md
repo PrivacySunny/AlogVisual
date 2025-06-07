@@ -35,14 +35,14 @@ A Next.js 14 project for visualizing famous algorithms using React, TypeScript, 
 1. Clone the repository:
 
 ```bash {"id":"01J7AT1ZH6GZWCDTK6XKYD4YYK"}
-git clone https://github.com/AlaminPu1007/algorithm-visualizer
+git clone https://github.com/PrivacySunny/AlogVisual.git
 
 ```
 
 2. Navigate to the project directory:
 
 ```bash {"id":"01J7AT1ZH6GZWCDTK6XQA42VZP"}
-cd algorithm-visualizer
+cd AlgoVisual
 
 ```
 
@@ -79,4 +79,4 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ## Contact
 
-For any questions or inquiries, please open an issue on GitHub or contact us at [alamin66.sit@gmail.com](mailto:alamin66.sit@gmail.com).
+For any questions or inquiries, please open an issue on GitHub or contact us at [sunnykr3913@gmail.com](mailto:sunnykr3913@gmail.com).
